@@ -113,9 +113,9 @@
         android:paddingVertical="10dp">
 
         <ImageView
-        android:layout_width="18dp"
-        android:layout_height="18dp"
-        app:srcCompat="@drawable/conversas_icon" />
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            app:srcCompat="@drawable/conversas_icon" />
 
         <TextView
             android:layout_width="0dp"
@@ -124,7 +124,19 @@
             android:text="Conversas"
             android:textSize="14sp"
             android:textStyle="bold"
-            android:paddingStart="10dp"/>
+            android:paddingStart="10dp"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="9"
+            android:textColor="#FFFFFF"
+            android:textSize="11sp"
+            android:textStyle="bold"
+            android:background="#EA1D2C"
+            android:paddingHorizontal="6dp"
+            android:layout_marginEnd="8dp"/>
 
         <TextView
             android:layout_width="wrap_content"
@@ -160,6 +172,17 @@
             android:textSize="14sp"
             android:textStyle="bold"
             android:paddingStart="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="6"
+            android:textColor="#FFFFFF"
+            android:textSize="11sp"
+            android:textStyle="bold"
+            android:background="#EA1D2C"
+            android:paddingHorizontal="6dp"
+            android:layout_marginEnd="8dp"/>
 
         <TextView
             android:layout_width="wrap_content"
