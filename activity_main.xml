@@ -256,7 +256,8 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="›" android:textColor="#B3ACAC"
+            android:text="›" 
+            android:textColor="#B3ACAC"
             android:textSize="18sp" />
     </LinearLayout>
 
@@ -484,7 +485,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-
         android:paddingVertical="8dp">
 
         <LinearLayout
@@ -581,7 +581,7 @@
                 android:text="Perfil"
                 android:textSize="11sp" />
         </LinearLayout>
-
+        
     </LinearLayout>
-
+    
 </LinearLayout>
