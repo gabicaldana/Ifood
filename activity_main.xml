@@ -11,7 +11,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="190dp"
-        android:background="@drawable/fundo_de_luzes_de_gradiente_23_2149305023"
+        android:background="@drawable/fundo_roxo"
         android:orientation="vertical"
         android:paddingBottom="16dp">
 
@@ -25,7 +25,7 @@
             <ImageView
                 android:layout_width="55dp"
                 android:layout_height="55dp"
-                android:src="@drawable/captura_de_tela_2026_03_30_122327" />
+                android:src="@drawable/pfp" />
 
             <LinearLayout
                 android:layout_width="0dp"
